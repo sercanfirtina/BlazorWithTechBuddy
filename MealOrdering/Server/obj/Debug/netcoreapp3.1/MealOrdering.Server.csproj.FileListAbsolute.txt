@@ -195,8 +195,6 @@ C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\bin\Debug\netcoreapp3.1\
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.csprojAssemblyReference.cache
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.AssemblyInfoInputs.cache
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.AssemblyInfo.cs
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.csproj.CoreCompileInputs.cache
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.RazorAssemblyInfo.cache
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.RazorAssemblyInfo.cs
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.TagHelpers.input.cache
@@ -213,3 +211,6 @@ C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.dll
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.pdb
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.genruntimeconfig.cache
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\bin\Debug\netcoreapp3.1\Blazored.Modal.dll
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.csproj.CoreCompileInputs.cache
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Server\obj\Debug\netcoreapp3.1\MealOrdering.Server.MvcApplicationPartsAssemblyInfo.cache

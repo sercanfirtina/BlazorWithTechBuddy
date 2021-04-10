@@ -1,7 +1,8 @@
 ﻿@page "/buttontest"
 
 
- <h3>@title</h3>
+
+<h3>@title</h3>
 
 
 <div class="form-group">
@@ -10,24 +11,52 @@
 
             @* Import.razora using ile component klasörü tanıtıldıl *@
 
-            <CustomEditButtonComponent OnClick="changeTitle" />
+            <CustomEditButtonComponent Caption="ShowMessage" OnClick="@changeTitle" />
 
 
-            <CustomEditButtonComponent Caption="Edit Caption" Color="danger" Icon="pencil" IsSmall="false" />
+            <CustomEditButtonComponent Caption="Edit Caption" OnClick="@showConfirmation" Icon="pencil" IsSmall="false" />
 
             <AddNewButtonComponent />
 
         </div>
     </div>
-</div>  
+</div>
 
 @code {
 
+    [CascadingParameter]
+    IModalService Modal { get; set; }
+
+    [Inject]
+    ModalManager ModalManager { get; set; }
+
+
     private string title = "";
 
-    private void changeTitle()
+    private async Task changeTitle()
     {
-        title="New Title";
+        await ModalManager.ShowMessageAsync("Show Message Title", "Kayıt Silindi",3000);
+
+        //ModalManager Eklendi gerek yok
+
+        //ModalParameters parameters = new ModalParameters();
+        //parameters.Add("Message", "En büyük Fener");
+
+        //Modal.Show<ShowMessagePopupComponent>("Counter Popup Page",parameters);
+    }
+
+    async Task showConfirmation()
+    {
+        var result=await ModalManager.ConfirmationAsync("Confirmation", "Silinmesini onaylıyor musunuz?");
+
+        if (result)
+        {
+            title = "yes e tıklandı";
+        }
+        else
+        {
+            title = "no ya tıklandı";
+        }
     }
 
 }

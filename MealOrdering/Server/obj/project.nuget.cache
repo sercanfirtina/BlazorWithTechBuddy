@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+or2ViRD47BhdQUdtNg57iQ0O8l25lxmM3BKOdo2+6x3W9h5XAHSu2Krbx8rJPnDi2DpKdztO4uygIfI3In50Q==",
+  "dgSpecHash": "/m5dWio6uZ9fvTlXZDBj+4XTVl+Xm08NXeT4btjKWgTrJv95i6irOoz+HO/DqxMygklkVEgJpsTwZ0tNWAdX1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\server\\MealOrdering.Server.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\SERCAN\\.nuget\\packages\\blazored.modal\\6.0.1\\blazored.modal.6.0.1.nupkg.sha512",
     "C:\\Users\\SERCAN\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\SERCAN\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
     "C:\\Users\\SERCAN\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.6\\microsoft.aspnetcore.components.analyzers.3.1.6.nupkg.sha512",

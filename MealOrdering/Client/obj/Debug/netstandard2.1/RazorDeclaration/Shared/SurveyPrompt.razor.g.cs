@@ -77,8 +77,43 @@ using MealOrdering.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
+#line 11 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
+using MealOrdering.Client.CustomComponents;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
 using MealOrdering.Client.CustomComponents.Buttons;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 15 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
+using Blazored.Modal;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 16 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
+using Blazored.Modal.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 18 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
+using MealOrdering.Client.CustomComponents.ModalComponents;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 20 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
+using MealOrdering.Client.Utils;
 
 #line default
 #line hidden

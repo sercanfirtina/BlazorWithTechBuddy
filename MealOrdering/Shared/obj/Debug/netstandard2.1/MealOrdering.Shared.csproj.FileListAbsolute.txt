@@ -1,9 +1,9 @@
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\bin\Debug\netstandard2.1\MealOrdering.Shared.deps.json
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\bin\Debug\netstandard2.1\MealOrdering.Shared.dll
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\bin\Debug\netstandard2.1\MealOrdering.Shared.pdb
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\obj\Debug\netstandard2.1\MealOrdering.Shared.csprojAssemblyReference.cache
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\obj\Debug\netstandard2.1\MealOrdering.Shared.AssemblyInfoInputs.cache
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\obj\Debug\netstandard2.1\MealOrdering.Shared.AssemblyInfo.cs
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\obj\Debug\netstandard2.1\MealOrdering.Shared.csproj.CoreCompileInputs.cache
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\obj\Debug\netstandard2.1\MealOrdering.Shared.dll
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\obj\Debug\netstandard2.1\MealOrdering.Shared.pdb
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Shared\obj\Debug\netstandard2.1\MealOrdering.Shared.csprojAssemblyReference.cache

@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\gvFxJRu7HlxD_3hUBbhpT_oVfQX7m4LCXQ8PLmIzk2c=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dUeo3aFaRbJ9x5ssrBvYMaDaSDeNXtUl5W0QPw7Eejs=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MealOrdering.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MealOrdering.Client.dll.gz"
     },
@@ -266,7 +266,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BSzYle3KuW-DCsYgQ4sPBeEuZJdrnNi2ILz0DBm4NOs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\C7c8P76DY3yfotFZU4GdOj5zMIoRDTTXqaq6od0KLV0=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MealOrdering.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MealOrdering.Client.pdb.gz"
     },
@@ -296,12 +296,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\UN2RZvqxeMFizgVkRz6YSeY3Yi2IsNs20PdYcTMybpE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3Rtci2lMuRpW-CFdI_uvLB-UKVYek-e8ZYhm7SH5_Fk=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\kc8kyQOr7pmiwj_jbQ_1WJqfoact1ToCAVbDLQOuzkQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\-sw3KBlQkS6-TeajY-hehNRt4D95_M9ShQiUjpPkuuY=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

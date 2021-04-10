@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-gvFxJRu7HlxD+3hUBbhpT+oVfQX7m4LCXQ8PLmIzk2c=",
+      "hash": "sha256-dUeo3aFaRbJ9x5ssrBvYMaDaSDeNXtUl5W0QPw7Eejs=",
       "url": "_framework\/_bin\/MealOrdering.Client.dll"
     },
     {
@@ -277,7 +277,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-BSzYle3KuW\/DCsYgQ4sPBeEuZJdrnNi2ILz0DBm4NOs=",
+      "hash": "sha256-C7c8P76DY3yfotFZU4GdOj5zMIoRDTTXqaq6od0KLV0=",
       "url": "_framework\/_bin\/MealOrdering.Client.pdb"
     },
     {
@@ -301,9 +301,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-UN2RZvqxeMFizgVkRz6YSeY3Yi2IsNs20PdYcTMybpE=",
+      "hash": "sha256-3Rtci2lMuRpW\/CFdI+uvLB\/UKVYek\/e8ZYhm7SH5+Fk=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "MlrvQJ8\/"
+  "version": "K3R8FrUn"
 };

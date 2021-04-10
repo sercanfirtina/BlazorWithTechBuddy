@@ -1,17 +1,11 @@
 ﻿
+@inherits BaseButtonComponent
 
-<button class="btn btn-@Color">  
-    <span class="fas fa-@Icon"></span>
-    @ButtonTest
-</button>
+<ButtonComponent  Caption=@(Caption??"Edit")
+                 Color="@(Color??"secondary")"
+                 Icon="@(Icon??"secondary")"
+                 OnClick="OnClick"
+                 ToolTipStr="@(ToolTipStr ?? "Edit")"
+                 IsOutline="@IsOutline"
+                 IsSmall="@IsSmall" />
 
-@code{
-    [Parameter]
-    public string ButtonTest { get; set; }
-
-    [Parameter]
-    public string Color { get; set; }
-
-    [Parameter]
-    public string Icon { get; set; }
-}

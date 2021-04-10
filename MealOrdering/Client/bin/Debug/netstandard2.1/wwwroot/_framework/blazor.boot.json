@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "MealOrdering.Client.dll": "sha256-gvFxJRu7HlxD+3hUBbhpT+oVfQX7m4LCXQ8PLmIzk2c=",
+      "MealOrdering.Client.dll": "sha256-dUeo3aFaRbJ9x5ssrBvYMaDaSDeNXtUl5W0QPw7Eejs=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -61,7 +61,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "MealOrdering.Client.pdb": "sha256-BSzYle3KuW\/DCsYgQ4sPBeEuZJdrnNi2ILz0DBm4NOs=",
+      "MealOrdering.Client.pdb": "sha256-C7c8P76DY3yfotFZU4GdOj5zMIoRDTTXqaq6od0KLV0=",
       "MealOrdering.Shared.pdb": "sha256-OKmG3Snyj0SrzRLvNwW4VGLBQXyg8dFHJZr10aCPH8I="
     },
     "runtime": {

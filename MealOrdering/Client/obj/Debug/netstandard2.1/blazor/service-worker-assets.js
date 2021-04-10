@@ -57,7 +57,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-zdZddNdtpDuiODTpqXSNF0RJHI2aXOcEFIDb75lkhZ8=",
+      "hash": "sha256-p0eEsrVGZg8DBc1HO1W47M64VD10i0vrx7cLqOSgbLw=",
       "url": "index.html"
     },
     {
@@ -65,7 +65,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-ZZ+YLK+sCmitSQQvfsP471H5CujfZhKUTz7p5RHmO4E=",
+      "hash": "sha256-gvFxJRu7HlxD+3hUBbhpT+oVfQX7m4LCXQ8PLmIzk2c=",
       "url": "_framework\/_bin\/MealOrdering.Client.dll"
     },
     {
@@ -217,7 +217,7 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-O96dTAL4ens+fLpq+bkvbaKw8A2+22NpkxrZAmB98\/Q=",
+      "hash": "sha256-58mqp+8pcJ89wzxFfeoymWsC1FTEcZtVDftC2zDGxrU=",
       "url": "_framework\/_bin\/MealOrdering.Shared.dll"
     },
     {
@@ -277,11 +277,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-vqe31toHXbSy\/8Ej6AwHUUXlBJxH3euP5ac1jBnvYk8=",
+      "hash": "sha256-BSzYle3KuW\/DCsYgQ4sPBeEuZJdrnNi2ILz0DBm4NOs=",
       "url": "_framework\/_bin\/MealOrdering.Client.pdb"
     },
     {
-      "hash": "sha256-fkN0Uf9sGVvdQCWoK6PfeWYLp9dSP4MAICUaAmCFwx0=",
+      "hash": "sha256-OKmG3Snyj0SrzRLvNwW4VGLBQXyg8dFHJZr10aCPH8I=",
       "url": "_framework\/_bin\/MealOrdering.Shared.pdb"
     },
     {
@@ -301,9 +301,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-xSBPSiGo2it7\/De+APJ3cgaSypfofic1RIFcNddwzE4=",
+      "hash": "sha256-UN2RZvqxeMFizgVkRz6YSeY3Yi2IsNs20PdYcTMybpE=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "Htr59Bd3"
+  "version": "MlrvQJ8\/"
 };

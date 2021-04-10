@@ -20,7 +20,7 @@ namespace MealOrdering.Server.Controllers
         private readonly ILogger<WeatherForecastController> logger;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
-        {
+        {          
             this.logger = logger;
         }
 

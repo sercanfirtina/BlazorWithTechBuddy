@@ -1,0 +1,17 @@
+﻿
+
+<button class="btn btn-@Color">  
+    <span class="fas fa-@Icon"></span>
+    @ButtonTest
+</button>
+
+@code{
+    [Parameter]
+    public string ButtonTest { get; set; }
+
+    [Parameter]
+    public string Color { get; set; }
+
+    [Parameter]
+    public string Icon { get; set; }
+}

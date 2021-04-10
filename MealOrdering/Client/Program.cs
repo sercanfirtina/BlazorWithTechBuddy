@@ -10,6 +10,10 @@ using Microsoft.Extensions.Logging;
 
 namespace MealOrdering.Client
 {
+
+    //ls
+    // cd.\MealOrdering\server
+    //dotnet run
     public class Program
     {
         public static async Task Main(string[] args)

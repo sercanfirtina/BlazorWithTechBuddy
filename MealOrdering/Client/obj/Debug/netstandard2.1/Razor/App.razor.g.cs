@@ -72,6 +72,13 @@ using MealOrdering.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\_Imports.razor"
+using MealOrdering.Client.CustomComponents.Buttons;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

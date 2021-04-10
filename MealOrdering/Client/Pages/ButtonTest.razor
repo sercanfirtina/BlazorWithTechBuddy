@@ -1,0 +1,25 @@
+﻿@page "/buttontest"
+
+
+<h3>ButtonTest</h3>
+
+
+<div class="form-group">
+    <div class="container">
+        <div class="btn-toolbar">
+          
+            @* Import.razora using ile component klasörü tanıtıldıl *@
+
+            <CustomEditButtonComponent ButtonTest="Test Edit Button" Color="primary" Icon="edit"/>
+
+            <CustomEditButtonComponent ButtonTest="Edit Button" Color="danger" Icon="user-edit"/>
+
+            <button class="btn btn-danger">Danger Button
+            </button>
+        </div>
+    </div>
+</div>  
+
+@code {
+
+}

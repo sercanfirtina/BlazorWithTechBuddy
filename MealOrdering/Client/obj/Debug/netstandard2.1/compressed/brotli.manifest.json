@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\azDh0nA1SuVY3zlHyFUwyxmrJORNQdr87OplcjbLg3Q=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\QEU77WG6hJKVyQkd1iCQ0OGR1ValLgNvmGqN8uaAe4w=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MealOrdering.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MealOrdering.Client.dll.br"
     },
@@ -191,7 +191,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\58mqp_8pcJ89wzxFfeoymWsC1FTEcZtVDftC2zDGxrU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\O96dTAL4ens_fLpq_bkvbaKw8A2_22NpkxrZAmB98-Q=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MealOrdering.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MealOrdering.Shared.dll.br"
     },
@@ -271,12 +271,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\2mO5XvF-5U8ClC4ks74kXQgN-VXZ0o0WgudyHm5kGpM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wrMEF6c-39X0PLoDJJoulfGzPwWcOcc7Zypym5bcPfs=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MealOrdering.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MealOrdering.Client.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OKmG3Snyj0SrzRLvNwW4VGLBQXyg8dFHJZr10aCPH8I=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fkN0Uf9sGVvdQCWoK6PfeWYLp9dSP4MAICUaAmCFwx0=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\MealOrdering.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/MealOrdering.Shared.pdb.br"
     },
@@ -301,12 +301,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lY_UTY4T51fjUu0Ko1T-eIotK0JoeppD5VwfKep0A48=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\V1F1924z_GAC_HAUqexHPcSN7nMVLlWjQb44fDFcMRc=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\beZ2kgT1ADyJir1fK8knoZT8MxA92HkkT2bZ53guS5g=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3-BR2oMiyjoQ8-U6iVOPM5SZ1ujd0EG7A6_18ATE_Es=.hash",
       "Source": "C:\\Users\\SERCAN\\source\\repos\\Blazor\\MealOrdering\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

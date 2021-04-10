@@ -1,0 +1,12 @@
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\bin\Debug\netcoreapp3.1\MealOrdering.Server.Data.deps.json
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\bin\Debug\netcoreapp3.1\MealOrdering.Server.Data.dll
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\obj\Debug\netcoreapp3.1\MealOrdering.Server.Data.csprojAssemblyReference.cache
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\obj\Debug\netcoreapp3.1\MealOrdering.Server.Data.AssemblyInfoInputs.cache
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\obj\Debug\netcoreapp3.1\MealOrdering.Server.Data.AssemblyInfo.cs
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\bin\Debug\netcoreapp3.1\MealOrdering.Server.Data.runtimeconfig.json
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\bin\Debug\netcoreapp3.1\MealOrdering.Server.Data.runtimeconfig.dev.json
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\obj\Debug\netcoreapp3.1\MealOrdering.Server.Data.genruntimeconfig.cache
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\bin\Debug\netcoreapp3.1\MealOrdering.Server.Data.pdb
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\obj\Debug\netcoreapp3.1\MealOrdering.Server.Data.csproj.CoreCompileInputs.cache
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\obj\Debug\netcoreapp3.1\MealOrdering.Server.Data.dll
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering.Server.Data\obj\Debug\netcoreapp3.1\MealOrdering.Server.Data.pdb

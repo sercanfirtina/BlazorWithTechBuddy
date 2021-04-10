@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealOrdering.Client", "Meal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealOrdering.Shared", "MealOrdering\Shared\MealOrdering.Shared.csproj", "{A45104AD-6566-416E-A7DA-BB56E3707D97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealOrdering.Server.Data", "MealOrdering.Server.Data\MealOrdering.Server.Data.csproj", "{FC31DC4B-7730-4D5A-8DF4-3F7413B0295B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A45104AD-6566-416E-A7DA-BB56E3707D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A45104AD-6566-416E-A7DA-BB56E3707D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A45104AD-6566-416E-A7DA-BB56E3707D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC31DC4B-7730-4D5A-8DF4-3F7413B0295B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC31DC4B-7730-4D5A-8DF4-3F7413B0295B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC31DC4B-7730-4D5A-8DF4-3F7413B0295B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC31DC4B-7730-4D5A-8DF4-3F7413B0295B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

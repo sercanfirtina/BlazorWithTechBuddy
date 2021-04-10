@@ -393,10 +393,10 @@ C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\Razor\CustomComponents\ModalComponents\ShowMessagePopupComponent.razor.g.cs
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\RazorDeclaration\CustomComponents\ModalComponents\ConfirmationPopupComponent.razor.g.cs
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\Razor\CustomComponents\ModalComponents\ConfirmationPopupComponent.razor.g.cs
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\58mqp_8pcJ89wzxFfeoymWsC1FTEcZtVDftC2zDGxrU=.hash
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\OKmG3Snyj0SrzRLvNwW4VGLBQXyg8dFHJZr10aCPH8I=.hash
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\RX6RDAogtdhRAwjcK9F_o9psBP8KZNt-9kuwx82A-wc=.hash
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\azDh0nA1SuVY3zlHyFUwyxmrJORNQdr87OplcjbLg3Q=.hash
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\2mO5XvF-5U8ClC4ks74kXQgN-VXZ0o0WgudyHm5kGpM=.hash
-C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\lY_UTY4T51fjUu0Ko1T-eIotK0JoeppD5VwfKep0A48=.hash
 C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\beZ2kgT1ADyJir1fK8knoZT8MxA92HkkT2bZ53guS5g=.hash
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\QEU77WG6hJKVyQkd1iCQ0OGR1ValLgNvmGqN8uaAe4w=.hash
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\O96dTAL4ens_fLpq_bkvbaKw8A2_22NpkxrZAmB98-Q=.hash
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\wrMEF6c-39X0PLoDJJoulfGzPwWcOcc7Zypym5bcPfs=.hash
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\fkN0Uf9sGVvdQCWoK6PfeWYLp9dSP4MAICUaAmCFwx0=.hash
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\V1F1924z_GAC_HAUqexHPcSN7nMVLlWjQb44fDFcMRc=.hash
+C:\Users\SERCAN\source\repos\Blazor\MealOrdering\Client\obj\Debug\netstandard2.1\integrity\3-BR2oMiyjoQ8-U6iVOPM5SZ1ujd0EG7A6_18ATE_Es=.hash
